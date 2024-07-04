@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 
 ###
 
@@ -8,6 +5,12 @@
   <a href="https://www.linkedin.com/in/barisadalidag/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BarisAdaliDag.BarisAdaliDag&"  />
 </div>
 
 ###
@@ -20,7 +23,7 @@
 
 ###
 
-<p align="left">- 👨‍💻 All of my example projects are available at =>  https://github.com/BarisAdaliDag<br>- 💬 Ask me about everything to learn by researching.<br>- 📫  How to reach me barisadalidag@gmail.com<br>📄 Know about my experiences => https://www.linkedin.com/in/barisadalidag/</p>
+<p align="left">- 👨‍💻 All of my example projects are available at => https://github.com/BarisAdaliDag<br>- 💬 Ask me about everything to learn by researching.<br>- 📫  How to reach me barisadalidag@gmail.com<br>📄 Know about my experiences => https://www.linkedin.com/in/barisadalidag/</p>
 
 ###
 
@@ -55,5 +58,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BarisAdaliDag&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
